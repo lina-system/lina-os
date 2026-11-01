@@ -1,0 +1,28 @@
+# LINA OS manifest: one table per pinned artifact, no component code.
+# version is the released version, source is the release URL or image reference, sha256 is the artifact digest.
+# TBD means the artifact is not pinned yet.
+
+[lina]
+version = "TBD"
+source = "TBD"
+sha256 = "TBD"
+
+[lina-app-web]
+version = "TBD"
+source = "TBD"
+sha256 = "TBD"
+
+[ocx]
+version = "TBD"
+source = "TBD"
+sha256 = "TBD"
+
+[omo]
+version = "TBD"
+source = "TBD"
+sha256 = "TBD"
+
+[postgres]
+version = "TBD"
+source = "TBD"
+sha256 = "TBD"
